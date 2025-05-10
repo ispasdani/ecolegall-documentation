@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b637d28d2faed32b",
+        "id": "3744b2b6a7779de6",
         "type": "tabs",
         "children": [
           {
-            "id": "bf7f8931f3c6ea71",
+            "id": "536596aa4b135ad0",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: app.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -176,8 +172,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf7f8931f3c6ea71",
+  "active": "536596aa4b135ad0",
   "lastOpenFiles": [
+    "EcoLegall Documentation/System Architecture/Security.md",
+    "EcoLegall Documentation/Application Overview/Packages.md",
+    "EcoLegall Documentation/Application Overview/How to get Started.md",
+    "EcoLegall Documentation/Backend/Application General Flow.md",
+    "EcoLegall Documentation/Database/Schemas.md",
+    "EcoLegall Documentation/Database/Convex DB.md",
     "EcoLegall Documentation/Frontend/Next.js i18n Implementation for Protected Routes.md",
     "EcoLegall Documentation/Application Overview",
     "EcoLegall Documentation/Frontend/Untitled.md",
