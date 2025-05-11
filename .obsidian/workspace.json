@@ -11,10 +11,14 @@
             "id": "536596aa4b135ad0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "EcoLegall Documentation/Frontend/Language System Sequence Diagram.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Language System Sequence Diagram"
             }
           }
         ]
@@ -174,15 +178,18 @@
   },
   "active": "536596aa4b135ad0",
   "lastOpenFiles": [
+    "EcoLegall Documentation/Frontend/Troubleshooting Language Switching in React App - Claude.html",
+    "EcoLegall Documentation/Frontend/Language System Interaction Diagram.md",
+    "EcoLegall Documentation/Frontend/Language System Sequence Diagram.md",
+    "EcoLegall Documentation/Frontend/General i18n Language Switching System Documentation.md",
+    "EcoLegall Documentation/Frontend/Next.js i18n Implementation for Protected Routes.md",
     "EcoLegall Documentation/System Architecture/Security.md",
     "EcoLegall Documentation/Application Overview/Packages.md",
     "EcoLegall Documentation/Application Overview/How to get Started.md",
     "EcoLegall Documentation/Backend/Application General Flow.md",
     "EcoLegall Documentation/Database/Schemas.md",
     "EcoLegall Documentation/Database/Convex DB.md",
-    "EcoLegall Documentation/Frontend/Next.js i18n Implementation for Protected Routes.md",
     "EcoLegall Documentation/Application Overview",
-    "EcoLegall Documentation/Frontend/Untitled.md",
     "EcoLegall Documentation/Database",
     "EcoLegall Documentation/Backend",
     "EcoLegall Documentation/Frontend",
